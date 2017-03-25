@@ -6,7 +6,7 @@
     android:gravity="center"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context="com.girish.mvp.MainActivity">
+    tools:context="com.girish.mvp.activity.MainActivity">
 
     <EditText
         android:id="@+id/edittext_name"
